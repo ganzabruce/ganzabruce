@@ -1,44 +1,63 @@
-### Hi there,I'm Ganza 👋
+# 👋 Hi there, I'm Ganza
 
-[ganzabruce10@gmail.com](mailto:ganzabruce10@gmail.com)
+📧 **Email:** [ganzabruce10@gmail.com](mailto:ganzabruce10@gmail.com)  
+🔗 **LinkedIn:** [Ganza Bruce](https://www.linkedin.com/in/ganza-bruce-950ab6247/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganza-bruce-950ab6247/)](https://www.linkedin.com/in/ganza-bruce-950ab6247/)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/fadhiliJosue)](https://twitter.com/fadhiliJosue) -->
+---
 
-Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies. 
+## 🚀 About Me
 
-<br>
+<picture>
+  <img align="right" src="https://user-images.githubusercontent.com/11302354/133863716-75f46c8d-b1d1-4efd-9e88-ebefa2ad7b35.gif" width="200px">
+</picture>
 
-## <b>**About me**</b>
+- 💻 Full-stack developer passionate about building scalable web applications
+- 🌱 Currently exploring modern web development technologies
+- 🤝 Open to collaboration on meaningful and impactful projects
+- 🎯 Focused on continuous learning and solving real-world problems
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/11302354/133863716-75f46c8d-b1d1-4efd-9e88-ebefa2ad7b35.gif" width = 200px></picture>
+---
 
-<br>
+## 🛠️ Technologies & Tools
 
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-- A passionate Full-stack developer
-- Currently Exploring New Web Development Technologies
-<!-- - Ai enthusiast   -->
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-<br>
+---
 
-## 💻 Technologies & Tools
-
-- Programming Languages: Python, JavaScript, PHP
-- Frameworks & Libraries: Reactjs, Nodejs, nextjs, nestjs, Django, Laravel
-- Databases: MySQL, PostgreSQL, MongoDB
-<!-- - Cloud Platforms: AWS, Google Cloud, Azure -->
-<!-- - DevOps: Docker, Kubernetes, CI/CD(workflows, jenkins) -->
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+## 📊 GitHub Stats
 
 <a href="https://github.com/ganzabruce">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganzabruce&include_all_commits=true&count_private=true&show_icons=true&line_height=20&locale=en&theme=codeSTACKr" width="450" alt="Ganza Bruce github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ganzabruce&include_all_commits=true&count_private=true&show_icons=true&line_height=20&locale=en&theme=codeSTACKr" width="450" alt="Ganza Bruce GitHub stats"/>
 </a>
 
-<br>
+> Stats are auto-generated and may not fully reflect all contributions.
 
-Looking forward to collaborating and learning with fellow developers! 😄
+---
+
+## 🌟 What I'm Working On
+
+- Exploring modern web development tools
+- Building full-stack applications
+- Improving performance, scalability, and clean code practices
+
+---
+
+## 🤝 Let’s Connect
+
+I'm always open to collaboration, learning, and building meaningful projects together.
