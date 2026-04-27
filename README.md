@@ -38,15 +38,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/ganzabruce">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganzabruce&include_all_commits=true&count_private=true&show_icons=true&line_height=20&locale=en&theme=codeSTACKr" width="450" alt="Ganza Bruce GitHub stats"/>
-</a>
-
-> Stats are auto-generated and may not fully reflect all contributions.
 
 ---
 
