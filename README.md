@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ganza
+# 👋🏾 Hi there, I'm Ganza
 
 📧 **Email:** [ganzabruce10@gmail.com](mailto:ganzabruce10@gmail.com)  
 🔗 **LinkedIn:** [Ganza Bruce](https://www.linkedin.com/in/ganza-bruce-950ab6247/)
